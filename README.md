@@ -22,7 +22,7 @@ piano/
 └── requirements.txt   # Python dependencies
 ```
 ## ⚠️ Necessary Permissions ⚠️
-With the use of the pynput library to monitor when '=' is pressed, it is required that you give Terminal permissions for Input Monitoring.
+With the use of the pynput library to monitor when '=' is pressed, it is required that you give the Terminal application, or whichever application you use to run Python scripts, permissions for Input Monitoring.
 This can be done by going to **Security & Privacy** settings, scrolling to **Input Monitoring**, and enabling it for the **Terminal** application.
 
 ## Use
