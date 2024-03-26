@@ -48,5 +48,5 @@ This section is written with regards to the current state of the project as of M
 - Notes can only be provided through stdin (no reading from other files yet)
 - The requested song must be played to completion for graceful termination of the program.  *I may implement support for exiting early, along with multiple songs/library of some kind.*
 
-~~## GUIDED_MODE vs AUTOPLAYER~~ (Mentions of AUTOPLAYER removed from source files in latest commit).
+## ~~GUIDED_MODE vs AUTOPLAYER~~ (Mentions of AUTOPLAYER removed from source files in latest commit).
 ~~If you've looked at the source code and noticed mention of GUIDED_MODE and AUTOPLAYER, this project contains an implementation for an AUTOPLAYER. It differs with respects to the current GUIDED_MODE as AUTOPLAYER mindlessly goes through the song without need for user input. However, since I was very dissatisfied with my poor implementation, it currently sits dormant; pieces of it are commented out in the various script files. If you have a desire to use an AUTOPLAYER, feel free to uncomment the code (no guarantees it functions properly).~~
