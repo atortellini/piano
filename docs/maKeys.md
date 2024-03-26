@@ -11,9 +11,9 @@ For the rest of this document, I will explain the functions of maKeys.py, along 
 
 ## Functions:
 
-[pressLetter(singleChar)](#pressLetter(singleChar))
-[releaseLetter(singleChar)](#releaseLetter(singleChar))
-[typeLetter(singleChar)](#typeLetter(singleChar))
+[pressLetter(singleChar)](#pressLettersingleChar)
+[releaseLetter(singleChar)](#releaseLettersingleChar)
+[typeLetter(singleChar)](#typeLettersingleChar)
 
 ## pressLetter(singleChar)
 ```pressLetter``` is a function that has three main cases of execution dependent on the ``singleChar`` that is passed. 
