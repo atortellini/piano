@@ -15,8 +15,10 @@ piano/
 │   ├── parser.py      # QWERTY note parsing module
 │   ├── piano.py       # Main application module
 │   ├── maKeys.py      # Module for emulating keypresses
-│   └── SONG_CLASS.py  # Song class + read stdin module
-│
+│   ├── SONG_CLASS.py  # Song/Library class + reading from stdin and file module
+│   └── songs/         # Dir designated for txt file songs
+│       └── SONGS_GO_HERE.info   # File to help guide you. Feel free to delete it.
+
 ├── README.md          # Project README
 ├── LICENSE            # License file
 └── requirements.txt   # Python dependencies
